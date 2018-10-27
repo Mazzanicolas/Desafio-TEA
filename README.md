@@ -12,5 +12,7 @@ Nicolás Mazza, Eduardo Pérez
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
-* 
+* Json
+* Numpy
+
 
